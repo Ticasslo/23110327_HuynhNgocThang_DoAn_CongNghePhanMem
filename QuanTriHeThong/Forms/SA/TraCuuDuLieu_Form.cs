@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanTriHeThong
+namespace QuanTriHeThong.Forms
 {
-    public partial class Form1 : Form
+    public partial class TraCuuDuLieu_Form : Form
     {
-        public Form1()
+        public TraCuuDuLieu_Form()
         {
             InitializeComponent();
         }

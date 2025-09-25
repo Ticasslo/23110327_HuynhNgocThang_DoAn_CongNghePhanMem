@@ -1,0 +1,10 @@
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\bin\Debug\QuanTriHeThong.exe.config
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\bin\Debug\QuanTriHeThong.exe
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\bin\Debug\QuanTriHeThong.pdb
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\SA.WinForms.csproj.AssemblyReference.cache
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\QuanTriHeThong.TrangChuSA_Form.resources
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\QuanTriHeThong.Properties.Resources.resources
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\SA.WinForms.csproj.GenerateResource.cache
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\SA.WinForms.csproj.CoreCompileInputs.cache
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\QuanTriHeThong.exe
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\QuanTriHeThong\obj\Debug\QuanTriHeThong.pdb

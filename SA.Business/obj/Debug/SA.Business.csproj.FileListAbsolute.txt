@@ -1,0 +1,6 @@
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\SA.Business\bin\Debug\SA.Business.dll
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\SA.Business\bin\Debug\SA.Business.pdb
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\SA.Business\obj\Debug\SA.Business.csproj.AssemblyReference.cache
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\SA.Business\obj\Debug\SA.Business.csproj.CoreCompileInputs.cache
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\SA.Business\obj\Debug\SA.Business.dll
+D:\UTE_CongNghePM\23110327_HuynhNgocThang_DoAn_CongNghePhanMem\SA.Business\obj\Debug\SA.Business.pdb
